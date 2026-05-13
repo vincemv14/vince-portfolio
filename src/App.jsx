@@ -343,7 +343,7 @@ It represents the idea that our individual efforts are "patches" of a larger pic
               <div className="project-info-horizontal">
                 <h3>Samsung Create: Ideate to Elevate</h3>
                 <p className="role-tag">National Participant</p>
-                <p>Graduated with high honors from the University of the City of Manila (PLM).</p>
+                <p>Representing PLM in the Samsung Create National Ideathon and our pride to bring the Deaf Filipino community to the national stage. Through our project, we aimed to show that the community deserves to be heard and that promoting Filipino Sign Language is a vital investment in an inclusive future.</p>
               
               <div className="project-links">
           {/* Change this link to a button to trigger the state */}
@@ -367,7 +367,7 @@ It represents the idea that our individual efforts are "patches" of a larger pic
               <div className="project-info-horizontal">
                 <h3>DICT NCR Philippine Startup 9</h3>
                 <p className="role-tag">Participant and Top 6</p>
-                <p>Recognized as the Most Outstanding Engineering Student in the entire university.</p>
+                <p>We elevate the Deaf community to a regional stage through our project, "Kumpas". By reaching the Top 15 in the Philippine Startup Challenge 9, we aim to champion Filipino Sign Language and demonstrate the business potential of inclusive, accessible technology.</p>
               <div className="project-links">
           {/* Change this link to a button to trigger the state */}
           <button 
@@ -390,7 +390,7 @@ It represents the idea that our individual efforts are "patches" of a larger pic
               <div className="project-info-horizontal">
                 <h3>Internet of Things Conference</h3>
                 <p className="role-tag">Volunteer Organizer</p>
-                <p>Recognized as the Most Outstanding Engineering Student in the entire university.</p>
+                <p>Volunteered at the IoT Conference 2024, I contributed to the production and partnership teams to highlight the intersection of cloud technology and sustainable IoT education.</p>
               <div className="project-links">
           {/* Change this link to a button to trigger the state */}
           <button 
@@ -413,7 +413,7 @@ It represents the idea that our individual efforts are "patches" of a larger pic
               <div className="project-info-horizontal">
                 <h3>Be The Spark: Leadership Camp</h3>
                 <p className="role-tag">Computer Engineering Representative</p>
-                <p>Recognized as the Most Outstanding Engineering Student in the entire university.</p>
+                <p>My leadership training at the Riverview Resort focused on refining my "Head, Heart, and Hands" to better serve the PLM community. Through collaborative workshops, I strengthened my ability to lead with both integrity and excellence as a student representative.</p>
               <div className="project-links">
           {/* Change this link to a button to trigger the state */}
           <button 
@@ -436,7 +436,7 @@ It represents the idea that our individual efforts are "patches" of a larger pic
               <div className="project-info-horizontal">
                 <h3>Samsung Open Source Conference</h3>
                 <p className="role-tag">Event Participant</p>
-                <p>Recognized as the Most Outstanding Engineering Student in the entire university.</p>
+                <p>Attended the SOSCON 2025 and 2026 and understanding the value of Open Source projects</p>
               </div>
             </div>
 
@@ -445,7 +445,7 @@ It represents the idea that our individual efforts are "patches" of a larger pic
               <div className="project-info-horizontal">
                 <h3>PLM College of Engineering Volleyball</h3>
                 <p className="role-tag">Varsity Player</p>
-                <p>Recognized as the Most Outstanding Engineering Student in the entire university.</p>
+                <p>Played as varsity player and represent College of Engineering during the Intramurals 2024</p>
               <div className="project-links">
           {/* Change this link to a button to trigger the state */}
           <button 
@@ -468,7 +468,7 @@ It represents the idea that our individual efforts are "patches" of a larger pic
               <div className="project-info-horizontal">
                 <h3>Sangguniang Kabataan ng San Isidro</h3>
                 <p className="role-tag">Leadership Seminar Guest Speaker</p>
-                <p>Recognized as the Most Outstanding Engineering Student in the entire university.</p>
+                <p>During the 2nd Katipunan ng Kabataan Assembly, I led a leadership training session focused on empowering my fellow youth. As an SK Kagawad, my role was to facilitate growth and inspire active participation within our community</p>
               
               <div className="project-links">
           {/* Change this link to a button to trigger the state */}
@@ -492,7 +492,7 @@ It represents the idea that our individual efforts are "patches" of a larger pic
               <div className="project-info-horizontal">
                 <h3>Philippine Red Cross Marikina Chapter</h3>
                 <p className="role-tag">Youth Volunteer Instructor</p>
-                <p>Recognized as the Most Outstanding Engineering Student in the entire university.</p>
+                <p>I co-led the formation course and investiture for over 80 participants in Marikina City. My goal was to foster a space where elementary students could experience the joy of learning while gaining essential knowledge in volunteerism and humanitarian service.</p>
               
               <div className="project-links">
           {/* Change this link to a button to trigger the state */}
@@ -523,7 +523,7 @@ It represents the idea that our individual efforts are "patches" of a larger pic
               <div className="project-info-horizontal">
                 <h3>BS Computer Engineering</h3>
                 <p className="role-tag">Magna Cum Laude</p>
-                <p>Graduated with high honors from the University of the City of Manila (PLM).</p>
+                <p>Graduated with latin honors from Pamantasan ng Lungsod ng Maynila.</p>
               </div>
             </div>
 
@@ -532,7 +532,7 @@ It represents the idea that our individual efforts are "patches" of a larger pic
               <div className="project-info-horizontal">
                 <h3>Student Excellence Awardee</h3>
                 <p className="role-tag">University-wide Recognition</p>
-                <p>Recognized as the Most Outstanding Engineering Student in the entire university.</p>
+                <p>Awarded as the Student Excellence Awardee from the College of Engineering, a university recognition.</p>
               </div>
             </div>
 
@@ -541,7 +541,7 @@ It represents the idea that our individual efforts are "patches" of a larger pic
               <div className="project-info-horizontal">
                 <h3>Student Excellence Awardee</h3>
                 <p className="role-tag">University-wide Recognition</p>
-                <p>Recognized as the Most Outstanding Engineering Student in the entire university.</p>
+                <p>Recognized as the Most Outstanding Engineering Student in the College of Engineering.</p>
               </div>
             </div>
 
@@ -550,7 +550,7 @@ It represents the idea that our individual efforts are "patches" of a larger pic
               <div className="project-info-horizontal">
                 <h3>Institute of Computer Engineers PLM</h3>
                 <p className="role-tag">4th Year Batch Representative</p>
-                <p>Recognized as the Most Outstanding Engineering Student in the entire university.</p>
+                <p>Served as batch representative and lead the events for 4th year Computer Engineers</p>
               </div>
             </div>
 
@@ -558,7 +558,7 @@ It represents the idea that our individual efforts are "patches" of a larger pic
               <img src={dangalnigattayawImg} alt="Dangal Ni Gat Tayaw" className="project-img-thumb" />
               <div className="project-info-horizontal">
                 <h3>Dangal ni Gat Tayaw</h3>
-                <p className="role-tag">Pinakanatatanging Kabataan</p>
+                <p className="role-tag">Pinakanatatanging Kabataan sa Kolehiyo</p>
                 <p>An award recognizing outstanding youth contributions to the municipality of Liliw.</p>
               </div>
             </div>
