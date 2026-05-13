@@ -159,7 +159,7 @@ const skfedDetail = {
     {/* TSINELAS FESTIVAL */}
 
     <div className="project-card horizontal">
-      <img src={tsinelasImg} alt="Tsinelas Art" className="project-img-thumbs" />
+      <img src={tsinelasImg} alt="Tsinelas Art" className="project-img-thumb" />
       <div className="project-info-horizontal">
         <h3>22nd Liliw Tsinelas Festival</h3>
         <p className="role-tag">3rd Place | April 30, 2026</p>
@@ -185,7 +185,7 @@ const skfedDetail = {
           {/* SK FED */}
 
             <div className="project-card horizontal">
-              <img src={skfedImg} alt="SK FED Art" className="project-img-thumbs" />
+              <img src={skfedImg} alt="SK FED Art" className="project-img-thumb" />
               <div className="project-info-horizontal">
                 <h3>SK Federation Competition</h3>
                 <p className="role-tag">Champion</p>
@@ -210,7 +210,7 @@ const skfedDetail = {
 
           {/* LILIW MURAL */}
             <div className="project-card horizontal">
-              <img src={muralImg} alt="Liliw Mural Art" className="project-img-thumbs" />
+              <img src={muralImg} alt="Liliw Mural Art" className="project-img-thumb" />
               <div className="project-info-horizontal">
                 <h3>Liliw Community Mural</h3>
                 <p className="role-tag">Mural Artist</p>
@@ -234,7 +234,7 @@ const skfedDetail = {
       </div>
 
             <div className="project-card horizontal">
-              <img src={unsdnImg} alt="UNSDN Art" className="project-img-thumbs" />
+              <img src={unsdnImg} alt="UNSDN Art" className="project-img-thumb" />
               <div className="project-info-horizontal">
                 <h3>United Nations Digital Art Competition</h3>
                 <p className="role-tag">National Participant</p>
@@ -260,7 +260,7 @@ It represents the idea that our individual efforts are "patches" of a larger pic
      </div>
 
             <div className="project-card horizontal">
-              <img src={anilagImg} alt="Liliw Mural Art" className="project-img-thumbs" />
+              <img src={anilagImg} alt="Liliw Mural Art" className="project-img-thumb" />
               <div className="project-info-horizontal">
                 <h3>Anilag 2026 Logo Making Contest</h3>
                 <p className="role-tag">Participant</p>
@@ -284,7 +284,7 @@ It represents the idea that our individual efforts are "patches" of a larger pic
     </div>
 
             <div className="project-card horizontal">
-              <img src={foiImg} alt="Liliw Mural Art" className="project-img-thumbs" />
+              <img src={foiImg} alt="Liliw Mural Art" className="project-img-thumb" />
               <div className="project-info-horizontal">
                 <h3>FOI Philippines Digital Art Competition</h3>
                 <p className="role-tag">National Participant</p>
@@ -308,7 +308,7 @@ It represents the idea that our individual efforts are "patches" of a larger pic
     </div>
 
             <div className="project-card horizontal">
-              <img src={youthweekImg} alt="Liliw Mural Art" className="project-img-thumbs" />
+              <img src={youthweekImg} alt="Liliw Mural Art" className="project-img-thumb" />
               <div className="project-info-horizontal">
                 <h3>Liliw Youth Week Painting Competition</h3>
                 <p className="role-tag">Champion</p>
