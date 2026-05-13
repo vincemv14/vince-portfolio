@@ -276,27 +276,89 @@ h1 {
 }
 
 /* --- Mobile Responsiveness --- */
-@media (max-width: 900px) {
+@media (max-width: 768px) {
+  
+  /* 1. Reduce overall page padding */
+  .hero-header {
+    padding: 40px 15px; /* Half of desktop padding */
+  }
+
+  .content-area {
+    padding: 20px 15px;
+    width: 100%; /* Use full screen width */
+  }
+
+  /* 2. Scale down the typography */
+  h1 {
+    font-size: 2.2rem; /* Scaled down from 4rem */
+  }
+
+  .subtitle {
+    font-size: 0.95rem;
+    letter-spacing: 1px;
+  }
+
+  .section-title {
+    font-size: 1.2rem;
+    text-align: center;
+  }
+
+  /* 3. Shrink the Profile Picture */
+  .profile-pic {
+    width: 140px;
+    height: 140px;
+    margin-bottom: 15px;
+  }
+
+  /* 4. Adjust Nav Buttons for smaller screens */
+  .nav-buttons {
+    gap: 10px;
+    margin-top: 20px;
+  }
+
+  .nav-buttons button {
+    padding: 8px 18px;
+    font-size: 0.85rem;
+  }
+
+  /* 5. Clean up the Project Cards */
   .project-card.horizontal {
     flex-direction: column;
     text-align: center;
-    padding: 30px 20px;
+    padding: 25px 20px; /* Thinner padding */
+    margin-bottom: 20px;
   }
-  .project-img-thumb {
+
+  .project-img-thumb, .project-img-thumbs {
     margin-right: 0;
-    margin-bottom: 25px;
+    margin-bottom: 20px;
     width: 100%;
-    max-width: 400px;
-    height: auto;
+    max-width: 100%; /* Image fits the screen */
+    height: 220px;   /* Prevents images from being too tall on mobile */
+    object-fit: cover;
   }
-  .project-info-horizontal {
-    text-align: center;
-    line-height: 2;
+
+  .project-info-horizontal h3 {
+    font-size: 1.4rem; /* Smaller titles */
   }
-  .project-links {
-    justify-content: center;
+
+  .project-info-horizontal p {
+    font-size: 0.95rem;
+    line-height: 1.6; /* Better reading density */
   }
+
+  .role-tag {
+    font-size: 0.75rem;
+    margin: 5px 0 15px 0;
+  }
+
+  /* 6. Modal scaling for small screens */
   .modal-box {
-    padding: 30px 20px;
+    padding: 25px 20px;
+    width: 95%;
+  }
+
+  .modal-title {
+    font-size: 1.4rem;
   }
 }
